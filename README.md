@@ -5,6 +5,11 @@
 ## Papers
 
 ### 2024
+
+
+
+
+- <a name="todo"></a> LLaCA: Multimodal Large Language Continual Assistant (**ICLR 2025 Underreview**) [[paper](https://openreview.net/pdf?id=G9qA1JZ0Sy)]
 - <a name="todo"></a> CONTINUAL LLAVA: CONTINUAL INSTRUCTION TUN ING IN LARGE VISION-LANGUAGE MODELS (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2411.02564)][[code](https://github.com/mengcaopku/Continual-LLaVA?tab=readme-ov-file)]
 - <a name="todo"></a> Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models (**ICML 2024**) [[paper](https://arxiv.org/pdf/2402.12048)][[code](https://github.com/didizhu-zju/Model-Tailor)]
 - <a name="todo"></a> CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2403.08350)][[code](https://github.com/zackschen/CoIN)]
